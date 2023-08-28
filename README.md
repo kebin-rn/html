@@ -1,3 +1,3 @@
 # html
 けびん.jpの静的ホスティングに利用しているファイル群(一部違います)
-このファイルをAmazon S3に設置し前段にCloudFrontを設置しています
+このファイルをBunny Edge Storageに設置し前段にBunny CDNを設置しています
